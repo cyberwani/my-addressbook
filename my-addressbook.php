@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: My Address Book
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: http://www.example.com
 Description: Lorem Ipsum
 Author: Dinesh K
 Version: 1.0
-Author URI: http://ma.tt/
+Author URI: http://www.example.com
 */
 
 add_action( 'init', function(){
